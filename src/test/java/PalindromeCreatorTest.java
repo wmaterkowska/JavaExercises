@@ -1,4 +1,4 @@
-import org.example.PalindromeCreator;
+import org.wmaterkowska.PalindromeCreator;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;

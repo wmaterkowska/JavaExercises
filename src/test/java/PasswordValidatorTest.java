@@ -1,7 +1,5 @@
-import org.example.PasswordValidator;
+import org.wmaterkowska.PasswordValidator;
 import org.testng.annotations.Test;
-
-import java.util.Optional;
 
 import static org.testng.AssertJUnit.assertEquals;
 

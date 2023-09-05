@@ -1,6 +1,4 @@
-package org.example;
-
-import java.util.regex.Pattern;
+package org.wmaterkowska;
 
 public class PasswordValidator {
 
